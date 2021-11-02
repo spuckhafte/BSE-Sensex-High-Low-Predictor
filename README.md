@@ -4,7 +4,7 @@
 3. Get graphs for comparison between the actual and predicted values
 
 # Working
-`high_low_close(___open, ___true_high=None, ___true_low=None, ___true_close=None, ___graph=False, ___dpi=1000)`
+`high_low_close(___open, ___true_high=None, ___true_low=None, ___true_close=None, ___graph=False, ___dpi=1000)`\n
 _\_\_\_open = Opening Value_
 
 __Examples:__
