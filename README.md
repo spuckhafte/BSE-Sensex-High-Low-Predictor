@@ -8,10 +8,10 @@ ___high_low_close(\_\_\_open, \_\_\_true_high=None, \_\_\_true_low=None, \_\_\_t
 _\_\_\_open = Opening Value_
 
 __Examples:__
-1. high_low_close(60000): __returns an array__ = _\[high_value, low_value, closing_value]_
-2. high_low_close(60000, 61200, 34444, 55555): __returns an array__ = _\[high_value, low_value, closing_value, error%]_
-3. high_low_close(60000, \_\_\_graph=True): __returns an array__ = _\[high_value, low_value, closing_value] and __Displays graph form of the predicted values and saves it on your working folder___
-4. high_low_close(60000, 61200, 34444, 55555, True): __returns an array__ = _\[high_value, low_value, closing_value, error%] and __Displays graph form of the predicted and actual values (comparing the 2) and saves it on your working folder___
+1. `high_low_close(60000)`: __returns an array__ = _\[high_value, low_value, closing_value]_\n
+2. `high_low_close(60000, 61200, 34444, 55555)`: __returns an array__ = _\[high_value, low_value, closing_value, error%]_\n
+3. `high_low_close(60000, \_\_\_graph=True)`: __returns an array__ = _\[high_value, low_value, closing_value] and __Displays graph form of the predicted values and saves it on your working folder___\n
+4. `high_low_close(60000, 61200, 34444, 55555, True)`: __returns an array__ = _\[high_value, low_value, closing_value, error%] and __Displays graph form of the predicted and actual values (comparing the 2) and saves it on your working folder___\n
  
  ___You can also change the \_\_\_dpi value for a high or low quality image respectively___
 
