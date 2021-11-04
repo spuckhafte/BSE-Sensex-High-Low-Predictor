@@ -6,7 +6,7 @@
 # Working
 `high_low_close(___open, ___true_high=None, ___true_low=None, ___true_close=None, ___graph=False, ___dpi=1000)`<br>
 _\_\_\_open = Opening Value_<br>
-__You have to install all the files in one folder. Or wait I will upload a folder itself and you can download it__
+__You have to install all the files in one folder__
 
 __Examples:__
 1. `high_low_close(60000)`: __returns an array__ = _\[high_value, low_value, closing_value]_<br>
