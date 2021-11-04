@@ -19,5 +19,5 @@ __Examples:__
 # Note
 This project is entirely intended for research purposes! I’m just a student learning about Machine learning. Please don’t trust an algorithm as naïve as this!
 
-# Some Applications:
+# Prediction on 2 Nov:
 ![Sensex Graph 02-11-2021](https://user-images.githubusercontent.com/70335252/139847140-d7ae250c-307a-450f-9cdc-ff1fe11fadeb.jpg)
