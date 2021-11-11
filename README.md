@@ -14,7 +14,7 @@ __Examples:__
 3. `high_low_close(60000, ___graph=True)`: __returns an array__ = _\[high_value, low_value, closing_value] and __Displays graph form of the predicted values and saves it on your working folder___<br>
 4. `high_low_close(60000, 61200, 34444, 55555, True)`: __returns an array__ = _\[high_value, low_value, closing_value, error%] and __Displays graph form of the predicted and actual values (comparing the 2) and saves it on your working folder___<br>
  
- ___You can also change the`___dpi` value for a high or low quality image respectively___
+ ___You can also change the `___dpi` value for a high or low quality image respectively___
 
 # Note
 This project is entirely intended for research purposes! I’m just a student learning about Machine learning. Please don’t trust an algorithm as naïve as this!
